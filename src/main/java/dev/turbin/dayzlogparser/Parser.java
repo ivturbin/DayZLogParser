@@ -9,7 +9,6 @@ import dev.turbin.dayzlogparser.model.Position;
 import java.math.BigDecimal;
 import java.time.LocalTime;
 import java.util.Arrays;
-import java.util.stream.Collectors;
 
 public class Parser {
     public static Log parse(String line) {
