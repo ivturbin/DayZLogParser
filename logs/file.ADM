@@ -1,0 +1,135 @@
+
+
+******************************************************************************
+AdminLog started on 2025-12-09 at 08:59:58
+09:01:16 | Player "mama"(id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4=) is connected
+09:01:28 | Player "mama"(id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4=) has been disconnected
+09:01:42 | Player "mama"(id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4=) is connected
+09:01:58 | Player "mama"(id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4=) has been disconnected
+09:03:07 | Player "mama"(id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4=) is connected
+09:05:18 | ##### PlayerList log: 1 players
+09:05:18 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11514.1, 9925.8, 180.5>)
+11:11:11 | Player "UltiMATE" (id=123M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<3329.9, 2021.8, 487.0>)
+09:05:18 | #####
+09:09:22 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11634, 9848.4, 191.3>)[HP: 98.5375] hit by Зараженный into RightLeg(3) for 5.85 damage (MeleeInfected)
+09:10:17 | ##### PlayerList log: 1 players
+09:10:17 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11561.2, 9752.8, 185.0>)
+09:10:17 | #####
+09:13:54 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11393, 9710.8, 181.8>)[HP: 95.58] hit by Зараженный into Torso(1) for 4.42 damage (MeleeInfected)
+09:15:15 | ##### PlayerList log: 1 players
+09:15:15 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11317.5, 9596.5, 184.9>)
+09:15:15 | #####
+09:15:42 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11297.6, 9586.6, 185.4>) placed Капкан<BearTrap>
+09:18:02 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11224, 9511.1, 186.1>)[HP: 99.4475] hit by Зараженный into RightArm(17) for 5.525 damage (MeleeInfected)
+09:20:14 | ##### PlayerList log: 1 players
+09:20:14 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11310.6, 9418.8, 182.7>)
+09:20:14 | #####
+09:24:48 | Player "Ulti"(id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k=) is connected
+09:25:13 | ##### PlayerList log: 2 players
+09:25:13 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11388.7, 9575.2, 195.1>)
+09:25:13 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<7261.5, 12368.9, 234.8>)
+09:25:13 | #####
+09:27:10 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11560.9, 9745.6, 185.0>)[HP: 99.4475] hit by Зараженный into RightArm(17) for 5.525 damage (MeleeInfected)
+09:30:12 | ##### PlayerList log: 2 players
+09:30:12 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11502.3, 9754.1, 184.1>)
+09:30:12 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<6351.7, 10972.3, 175.1>)
+09:30:12 | #####
+09:35:11 | ##### PlayerList log: 2 players
+09:35:11 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11352.3, 10030.8, 172.7>)
+09:35:11 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<6839.4, 11128.3, 174.0>)
+09:35:11 | #####
+09:40:05 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11773.3, 10804.2, 173.1>)[HP: 99.4475] hit by Зараженный into LeftArm(18) for 5.525 damage (MeleeInfected)
+09:40:07 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11772.9, 10804.2, 173.1>)[HP: 97.625] hit by Зараженный into RightLeg(3) for 7.65 damage (MeleeInfectedLong)
+09:40:10 | ##### PlayerList log: 2 players
+09:40:10 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11773.3, 10804.2, 173.1>)
+09:40:10 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<7264.2, 12356.5, 233.9>)
+09:40:10 | #####
+09:44:26 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11773.1, 10802, 174.3>) placed Набор для разметки места для забора<FenceKit>
+09:44:39 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11772.4, 10798.9, 173.3>) folded Забор
+09:45:09 | ##### PlayerList log: 2 players
+09:45:09 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11768.4, 10797.7, 173.0>)
+09:45:09 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<6386.2, 10971.3, 175.6>)
+09:45:09 | #####
+09:47:16 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<11776.1, 10801.3, 174.3>) placed Набор для разметки места для забора<FenceKit>
+09:50:07 | ##### PlayerList log: 2 players
+09:50:07 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<12099.4, 10591, 174.7>)
+09:50:07 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<2346.3, 7599.7, 199.7>)
+09:50:07 | #####
+09:52:56 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<12757.1, 10671.8, 180.4>) placed Бочка<Barrel_Yellow>
+09:53:21 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<12757.2, 10671.6, 180.4>) placed Матросский сундук<SeaChest>
+09:54:56 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<12756.7, 10672.6, 180.4>) placed Зарядное устройство<BatteryCharger>
+09:55:06 | ##### PlayerList log: 2 players
+09:55:06 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<12754.3, 10673.5, 180.7>)
+09:55:06 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1645.4, 7413.0, 182.1>)
+09:55:06 | #####
+09:58:21 | Player "mama" (id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4= pos=<12757.1, 10671.6, 180.4>) performed EmoteSitA with DryBag_Blue
+09:58:39 | Player "mama"(id=gTkDftFSLA52dBiPH9y6BSD5QkNrI-ME8GYLvsK96k4=) has been disconnected
+10:00:05 | ##### PlayerList log: 1 players
+10:00:05 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1414.2, 7602.0, 176.8>)
+10:00:05 | #####
+10:04:24 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1949.8, 6946.6, 223.6>) placed Бочка<Barrel_Red>
+10:05:04 | ##### PlayerList log: 1 players
+10:05:04 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1949.9, 6946.4, 223.6>)
+10:05:04 | #####
+10:10:03 | ##### PlayerList log: 1 players
+10:10:03 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1937.4, 6975.5, 222.7>)
+10:10:03 | #####
+10:11:12 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1949.2, 6947.0, 223.6>)Built wall_base_up on Забор with Топорик
+10:11:25 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1949.2, 6947.0, 223.6>)Built wall_base_down on Забор with Топорик
+10:11:36 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1949.2, 6947.0, 223.6>)Built wall_wood_down on Забор with Топорик
+10:11:48 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1949.2, 6947.0, 223.6>)Built wall_wood_up on Забор with Топорик
+10:12:00 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1949.2, 6947.0, 223.6>)Built wall_gate on Ворота with Плоскогубцы
+10:12:23 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1947.8, 6949.8, 223.6>)Player SurvivorBase<3cbc5010> Mounted BarbedWire on Fence
+10:15:02 | ##### PlayerList log: 1 players
+10:15:02 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1944.1, 6962.0, 224.1>)
+10:15:02 | #####
+10:20:01 | ##### PlayerList log: 1 players
+10:20:01 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<850.9, 6712.3, 217.4>)
+10:20:01 | #####
+10:24:15 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<823.8, 5588.2, 240.3>)[HP: 98.6188] hit by Зараженный into LeftLeg(8) for 5.525 damage (MeleeInfected)
+10:24:59 | ##### PlayerList log: 1 players
+10:24:59 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<831.5, 5575.1, 240.5>)
+10:24:59 | #####
+10:29:58 | ##### PlayerList log: 1 players
+10:29:58 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<1344.5, 4920.3, 256.7>)
+10:29:58 | #####
+10:34:57 | ##### PlayerList log: 1 players
+10:34:57 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<843.1, 3304.0, 386.4>)
+10:34:57 | #####
+10:39:56 | ##### PlayerList log: 1 players
+10:39:56 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<3328.0, 2121.0, 494.5>)
+10:39:56 | #####
+10:44:55 | ##### PlayerList log: 1 players
+10:44:55 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<3266.2, 2172.8, 511.8>)
+10:44:55 | #####
+10:49:54 | ##### PlayerList log: 1 players
+10:49:54 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<3329.9, 2021.8, 487.0>)
+10:49:54 | #####
+10:54:53 | ##### PlayerList log: 1 players
+10:54:53 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<4713.7, 3031.9, 420.7>)
+10:54:53 | #####
+10:57:34 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<4718.3, 3043.3, 419.0>) placed Электрический генератор<PowerGenerator>
+10:59:51 | ##### PlayerList log: 1 players
+10:59:51 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<6081.7, 4138.5, 387.6>)
+10:59:51 | #####
+11:04:50 | ##### PlayerList log: 1 players
+11:04:50 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<6597.3, 3416.5, 362.0>)
+11:04:50 | #####
+11:09:49 | ##### PlayerList log: 1 players
+11:09:49 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<6862.3, 3080.7, 321.1>)
+11:09:49 | #####
+11:14:48 | ##### PlayerList log: 1 players
+11:14:48 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<7321.3, 2642.8, 290.6>)
+11:14:48 | #####
+11:15:32 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<7319.9, 2619.3, 287.3>)[HP: 99.2775] hit by Зараженный into LeftArm(18) for 7.225 damage (MeleeSoldierInfected)
+11:19:47 | ##### PlayerList log: 1 players
+11:19:47 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<7535.3, 2496.3, 287.1>)
+11:19:47 | #####
+11:24:46 | ##### PlayerList log: 1 players
+11:24:46 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<7390.7, 2745.0, 288.7>)
+11:24:46 | #####
+11:29:45 | ##### PlayerList log: 1 players
+11:29:45 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<6813.7, 3335.0, 307.2>)
+11:29:45 | #####
+11:30:11 | Player "Ulti" (id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k= pos=<6715.6, 3386.0, 335.9>) performed EmoteSitA
+11:30:24 | Player "Ulti"(id=M0vCHfHmTCC-Plcvn-2lEeF-PSbIySsF3jmXs4huk7k=) has been disconnected
